@@ -1,6 +1,8 @@
 # *Restaurant Rate Predictor*
 # *Desclaimer:* 
-Please don't Believe on fork version,if you use fork version and it not works then I am not responsible because the fork version is not mine, someone else have created it. 
+Please don't Believe on fork version, if you use fork version and it not works then I am not responsible because the fork version is not mine, someone else have created it. 
+
+This is created by Susanta Banik..
 
 *The original version is here.*
 
